@@ -1,3 +1,8 @@
+#这里使用的是来自Germey同学的ProxyPool模板，不过他原来的代码中有很多爬虫网址已经失效了，另外爬取得到的ip地址很多也并不是高匿的地址，所以进行了一些小修改，顺便附带了windows上redis的下载文件，其他都基本没变。
+
+
+
+
 # ProxyPool
 
 此代理池在获取IP的时候使用了pop方法一次性使用，如果是想多次可用可以移步优化后的代理池：[https://github.com/Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool)，推荐使用。
